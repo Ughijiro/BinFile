@@ -1,0 +1,6 @@
+Maximum integer: 2130706451
+MInimum integer: -2147483647
+306800.75
+No 1 byte: 7301
+No 2 byte: 14540
+No 4 byte: 21859
